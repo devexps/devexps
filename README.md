@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/devexps">
-    <img src="https://komarev.com/ghpvc/?username=devexps&color=brightgreen&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)" />
   </a>
 </p>
 
