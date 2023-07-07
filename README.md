@@ -10,9 +10,7 @@
   <a href="https://github.com/devexps">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devexps&theme=transparent" />
   </a>
-  <a href="https://github.com/devexps">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&langs_count=10&exclude_repo=&hide=&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
 </p>
 
 <p align="center">
