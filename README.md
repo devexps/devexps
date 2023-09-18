@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my page!<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Welcome to my page <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"> <br /> <img src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=blue&style=for-the-badge)" /> </h1>
 
 <!--
 <p align="center">
@@ -18,12 +18,10 @@
 
 
 <p align="left">
-  <img align="left" height="315px" src="./developer-github.gif"  />
-  <img align="right" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
+  <img align="left" width="400px" src="./developer-github.gif"  />
+  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
 </p>
 <p align="left">
-  <img align="left" src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=blue&style=for-the-badge)" />
-</p>
 
 
 <!--
