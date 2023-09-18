@@ -15,12 +15,14 @@
 </p>
 -->
 
+
+
 <p align="left">
-  <img align="left" width="460px" src="./developer-github.gif"  />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
+  <img align="left" height="315px" src="./developer-github.gif"  />
+  <img align="right" height="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
 </p>
 <p align="left">
-  <img align="center" src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=blue&style=for-the-badge)" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=blue&style=for-the-badge)" />
 </p>
 
 
