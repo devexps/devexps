@@ -17,9 +17,9 @@
 
 
 
-<p align="left">
-  <img align="left" width="400px" src="./developer-github.gif"  />
-  <img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
+<p align="center">
+  <img align="center" width="500px" src="./developer-github.gif"  />
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
 </p>
 <p align="left">
 
