@@ -17,7 +17,7 @@
 
 <p align="center">
 <img align="left" src="https://komarev.com/ghpvc/?username=devexps&label=PROFILE+VIEWS&color=blue&style=for-the-badge)" />
-<img align="left"  width="480px" src="./developer-github.gif"  />
+<img align="left"  width="400px" src="./developer-github.gif"  />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devexps&theme=<THEME_NAME>" />
 
 </p>
