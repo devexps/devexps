@@ -5,6 +5,6 @@
 </p>
 <p align="left">
 
-Most of my work is [inner source](https://en.wikipedia.org/wiki/Inner_source) and not reflected on my GitHub profile. In particular, I work with Kubernetes, Docker, Gitlab CI, Jenkins CI/CD pipeline, Elasticsearch, Kafka, Etcd, TiDB, TiKV, Prometheus, Grafana, Go, C/C++, Dart, Python, PHP, Javascript, and Linux.
+Most of my work is [inner-source](https://en.wikipedia.org/wiki/Inner_source) and not visible on my public GitHub profile. I have extensive experience working with Kubernetes, Docker, GitLab CI, Jenkins CI/CD pipelines, Elasticsearch, Kafka, Etcd, TiDB, TiKV, Prometheus, Grafana, Go, C/C++, Dart, Python, PHP, JavaScript, and Linux.
 
-See [devexps.github.io](https://devexps.github.io) for my personal website.
+For more information, visit my personal website at [devexps.github.io](https://devexps.github.io).
